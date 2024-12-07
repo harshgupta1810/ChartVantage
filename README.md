@@ -50,15 +50,7 @@ ChartVantage is a Python-based project designed to identify and analyze chart pa
 
 ---
 
-##  Overview
-
-<code>❯ REPLACE-ME</code>
-
 ---
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
 
 ---
 
