@@ -175,42 +175,13 @@ Install  using one of the following methods:
 
 1. Clone the  repository:
 ```sh
-❯ git clone ../
-```
-
-2. Navigate to the project directory:
-```sh
-❯ cd 
-```
-
-3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
+❯ git clone https://github.com/harshgupta1810/ChartVantage.git
 
 
-
-###  Usage
-Run  using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
-##  Contributing
 
-- **💬 [Join the Discussions](https://LOCAL///discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://LOCAL///issues)**: Submit bugs found or log feature requests for the `` project.
-- **💡 [Submit Pull Requests](https://LOCAL///blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -218,7 +189,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone ./
+   git clone https://github.com/harshgupta1810/ChartVantage.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
