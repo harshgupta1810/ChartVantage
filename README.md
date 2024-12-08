@@ -28,8 +28,8 @@ pip install pandas yfinance numpy matplotlib scipy statsmodels
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/harshgupta1810/ChartVantage.git
+   cd ChartVantage
    ```
 
 2. **Open the Jupyter Notebook**:
